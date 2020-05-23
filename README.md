@@ -1,2 +1,2 @@
 # RxJavaPractice
-This contains Rxjava + Kotlin
+This contains various Rxjava basic functions implemented using Kotlin language
